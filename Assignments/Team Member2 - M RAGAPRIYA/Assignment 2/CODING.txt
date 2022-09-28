@@ -1,0 +1,15 @@
+import requests
+import requests
+import random
+from time import*
+gate=True
+while(gate):
+    temperature=random.randint(0,60)
+    humidity=random.randint(10,60)
+    if temperature>49 and humidity<49:
+        print("Temperature=",temperature,"Humidity=",humidity)
+        print("alerting")
+        gate=False
+    else:
+        print("Temperature=",temperature,"Humidity=",humidity)
+        sleep(1)

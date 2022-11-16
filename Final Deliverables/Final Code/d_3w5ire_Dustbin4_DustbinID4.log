@@ -1,0 +1,20 @@
+2022-11-13 18:42:04,682   ibmiotf.device.Client      CRITICAL Not authorized: s (d:3w5ire:Dustbin4:DustbinID4, use-token-auth, 987654321)
+2022-11-13 18:42:34,176   ibmiotf.device.Client      CRITICAL Operation timed out connecting to IBM Watson IoT Platform: 3w5ire.messaging.internetofthings.ibmcloud.com
+2022-11-13 18:43:22,558   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-13 18:43:52,968   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-13 18:44:23,009   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-13 18:44:47,528   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-13 18:45:16,138   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-13 18:45:50,557   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-13 18:46:26,840   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-13 18:46:52,055   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-13 18:47:40,486   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-13 18:48:10,522   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-16 09:32:39,196   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-16 09:42:21,500   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-16 09:43:00,051   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-16 09:43:27,039   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-16 12:01:41,806   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-16 12:02:17,192   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-16 12:02:52,766   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
+2022-11-16 12:03:12,772   ibmiotf.device.Client      INFO    Connected successfully: d:3w5ire:Dustbin4:DustbinID4
